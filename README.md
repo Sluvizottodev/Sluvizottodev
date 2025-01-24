@@ -11,13 +11,13 @@
 
 ### About me:
 
-Developer with professional experience in mobile app development. I am building a solid career working with Flutter, Dart, and Firebase (NoSQL), creating intuitive user interfaces and integrating robust functionalities. I also have knowledge of Java, Kotlin, and relational databases (SQL), which enhances my ability to develop efficient solutions for the Android platform.
+Versatile developer with professional experience in creating innovative and efficient software solutions. Proficient in Flutter, Dart, and Firebase (NoSQL), with a strong focus on building intuitive interfaces and seamless functionality. Additionally, I have a solid foundation in Java, Kotlin, and relational databases (SQL), enabling me to tackle diverse challenges across platforms and technologies. I am always eager to explore and adapt to emerging tools and frameworks, contributing to impactful projects and expanding my expertise in the tech industry.
 
 ---
 
 ### Sobre mim:
 
-Desenvolvedora com experiência profissional em desenvolvimento de aplicativos móveis. Estou construindo uma sólida trajetória trabalhando com Flutter, Dart e Firebase (NoSQL), criando interfaces de usuário intuitivas e integrando funcionalidades robustas. Também possuo conhecimentos em Java, Kotlin e banco de dados relacionais (SQL), o que amplia minha capacidade de desenvolver soluções eficientes para a plataforma Android.
+Desenvolvedora versátil com experiência profissional na criação de soluções de software inovadoras e eficientes. Proficiente em Flutter, Dart e Firebase (NoSQL), com foco na construção de interfaces intuitivas e funcionalidades integradas de forma fluida. Além disso, possuo uma base sólida em Java, Kotlin e bancos de dados relacionais (SQL), o que me permite enfrentar desafios variados em diferentes plataformas e tecnologias. Estou sempre disposta a explorar e me adaptar a novas ferramentas e frameworks, contribuindo para projetos impactantes e ampliando minha expertise no setor de tecnologia.
 
 ---
 
