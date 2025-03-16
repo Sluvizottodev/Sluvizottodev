@@ -1,7 +1,5 @@
 <img alt="Bar" width="100%" src="https://raw.githubusercontent.com/Artursrossi/Artursrossi/main/src/bar.png">
 
-## Stefani Luvizotto
-
 <div> 
   <a href="https://www.linkedin.com/in/stefani-luvizotto-36025427b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:stefani292005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
@@ -9,8 +7,6 @@
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white">
   </a>
 </div>
-
----
 
 ### About me:
 
@@ -24,7 +20,7 @@ Desenvolvedora versátil com experiência profissional na criação de soluçõe
 
 ---
 
-### Tecnologias
+### Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -34,6 +30,7 @@ Desenvolvedora versátil com experiência profissional na criação de soluçõe
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
