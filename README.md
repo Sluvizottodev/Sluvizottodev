@@ -10,13 +10,13 @@
 
 ### About me:
 
-Versatile developer with professional experience in creating innovative and efficient software solutions. Proficient in Flutter, Dart, and Firebase (NoSQL), with a strong focus on building intuitive interfaces and seamless functionality. Additionally, I have a solid foundation in Java, Kotlin, and relational databases (SQL), enabling me to tackle diverse challenges across platforms and technologies. I am always eager to explore and adapt to emerging tools and frameworks, contributing to impactful projects and expanding my expertise in the tech industry.
+Software developer with experience in creating innovative and efficient solutions. I have worked with Flutter, Dart, and Firebase (NoSQL), and have a solid foundation in Java, Kotlin, and relational databases (SQL). I'm interested in expanding my knowledge to technologies such as React, Node.js, JavaScript, and Python (for data), exploring different areas of software development. I am versatile, adaptable, and constantly seeking new challenges that allow me to grow and contribute to impactful projects. I'm always willing to explore and adapt to new tools and frameworks, expanding my expertise in the tech industry.
 
 ---
 
 ### Sobre mim:
 
-Desenvolvedora versátil com experiência profissional na criação de soluções de software inovadoras e eficientes. Proficiente em Flutter, Dart e Firebase (NoSQL), com foco na construção de interfaces intuitivas e funcionalidades integradas de forma fluida. Além disso, possuo uma base sólida em Java, Kotlin e bancos de dados relacionais (SQL), o que me permite enfrentar desafios variados em diferentes plataformas e tecnologias. Estou sempre disposta a explorar e me adaptar a novas ferramentas e frameworks, contribuindo para projetos impactantes e ampliando minha expertise no setor de tecnologia.
+Desenvolvedora de software com experiência na criação de soluções inovadoras e eficientes. Atuo com Flutter, Dart e Firebase (NoSQL), além de ter uma base sólida em Java, Kotlin e bancos de dados relacionais (SQL). Tenho interesse em expandir meus conhecimentos para tecnologias como React, Node.js, JavaScript e Python (para dados), explorando diferentes áreas do desenvolvimento de software. Sou versátil, adaptável e busco constantemente novos desafios que me permitam crescer e contribuir para projetos impactantes. Estou sempre disposta a explorar e me adaptar a novas ferramentas e frameworks, ampliando minha expertise no setor de tecnologia.
 
 ---
 
