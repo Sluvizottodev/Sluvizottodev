@@ -15,16 +15,19 @@
   </a>
 </div>
 
-
 ### About me:
 
-Software developer with experience in creating innovative and efficient solutions. I have worked with Flutter, Dart, and Firebase (NoSQL), and have a solid foundation in Java, Kotlin, and relational databases (SQL). I'm interested in expanding my knowledge to technologies such as React, Node.js, JavaScript, and Python (for data), exploring different areas of software development. I am versatile, adaptable, and constantly seeking new challenges that allow me to grow and contribute to impactful projects. I'm always willing to explore and adapt to new tools and frameworks, expanding my expertise in the tech industry.
+👩‍💻 I'm a software developer with experience in creating innovative and efficient solutions. I have worked with **Flutter**, **Dart**, and **Firebase** (NoSQL), and I have a strong foundation in **Java**, **Kotlin**, and relational databases (**SQL**). I'm also interested in expanding my knowledge to technologies like **React**, **Node.js**, **JavaScript**, and **Python** (especially for data). I'm always seeking new challenges that allow me to grow and contribute to impactful projects. 
+
+🔧 I'm adaptable and enjoy exploring new tools, frameworks, and areas of software development. Whether it's **mobile**, **web**, or **data**, I am always eager to learn and leverage my skills in new contexts.
 
 ---
 
 ### Sobre mim:
 
-Desenvolvedora de software com experiência na criação de soluções inovadoras e eficientes. Atuo com Flutter, Dart e Firebase (NoSQL), além de ter uma base sólida em Java, Kotlin e bancos de dados relacionais (SQL). Tenho interesse em expandir meus conhecimentos para tecnologias como React, Node.js, JavaScript e Python (para dados), explorando diferentes áreas do desenvolvimento de software. Sou versátil, adaptável e busco constantemente novos desafios que me permitam crescer e contribuir para projetos impactantes. Estou sempre disposta a explorar e me adaptar a novas ferramentas e frameworks, ampliando minha expertise no setor de tecnologia.
+👩‍💻 Sou desenvolvedora de software com experiência na criação de soluções inovadoras e eficientes. Trabalho com **Flutter**, **Dart** e **Firebase** (NoSQL), além de ter uma base sólida em **Java**, **Kotlin** e bancos de dados relacionais (**SQL**). Tenho interesse em expandir meus conhecimentos para tecnologias como **React**, **Node.js**, **JavaScript** e **Python** (para dados), explorando diferentes áreas do desenvolvimento de software.
+
+🔧 Sou versátil e adoro explorar novas ferramentas e frameworks, além de me interessar por novas áreas dentro do desenvolvimento, seja **mobile**, **web** ou **dados**. Busco sempre novos desafios que me permitam crescer e contribuir para projetos impactantes.
 
 ---
 
