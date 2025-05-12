@@ -15,17 +15,21 @@
 
 ### About me:
 
-👩‍💻 I'm a software developer with experience in creating innovative and efficient solutions. I have worked with **Flutter**, **Dart**, and **Firebase** (NoSQL), and I have a strong foundation in **Java**, **Kotlin**, and relational databases (**SQL**). I'm also interested in expanding my knowledge to technologies like **React**, **Node.js**, **JavaScript**, and **Python** (especially for data). I'm always seeking new challenges that allow me to grow and contribute to impactful projects. 
+👩‍💻 I'm a software developer with hands-on experience in building efficient and innovative solutions using **Flutter**, **Dart**, and **Firebase** (NoSQL). I also have a strong academic and personal project background in **Java**, **Kotlin**, and **SQL** databases.
 
-🔧 I'm adaptable and enjoy exploring new tools, frameworks, and areas of software development. Whether it's **mobile**, **web**, or **data**, I am always eager to learn and leverage my skills in new contexts.
+🚀 I'm currently expanding my expertise into the **web** and **data** domains, studying technologies like **React**, **Node.js**, **JavaScript**, and **Python**. While I may not yet have professional experience in these areas, I have a solid technical foundation and a strong ability to learn quickly and apply new knowledge effectively.
+
+💡 I'm driven by challenges and enjoy contributing to meaningful and scalable projects, always with the mindset of improving my technical and collaborative skills.
 
 ---
 
 ### Sobre mim:
 
-👩‍💻 Sou desenvolvedora de software com experiência na criação de soluções inovadoras e eficientes. Trabalho com **Flutter**, **Dart** e **Firebase** (NoSQL), além de ter uma base sólida em **Java**, **Kotlin** e bancos de dados relacionais (**SQL**). Tenho interesse em expandir meus conhecimentos para tecnologias como **React**, **Node.js**, **JavaScript** e **Python** (para dados), explorando diferentes áreas do desenvolvimento de software.
+👩‍💻 Sou desenvolvedora de software com experiência prática na criação de soluções eficientes utilizando **Flutter**, **Dart** e **Firebase** (NoSQL). Tenho também uma base sólida, adquirida em estudos e projetos pessoais, com **Java**, **Kotlin** e bancos relacionais como **SQL**.
 
-🔧 Sou versátil e adoro explorar novas ferramentas e frameworks, além de me interessar por novas áreas dentro do desenvolvimento, seja **mobile**, **web** ou **dados**. Busco sempre novos desafios que me permitam crescer e contribuir para projetos impactantes.
+🚀 Estou ampliando meu conhecimento para novas áreas como **web** e **dados**, estudando tecnologias como **React**, **Node.js**, **JavaScript** e **Python**. Apesar de ainda não ter vivência profissional com essas tecnologias, tenho segurança na minha base técnica e na minha capacidade de aprender e aplicar novos conhecimentos rapidamente.
+
+💡 Gosto de desafios que me permitem crescer, aprender e contribuir com soluções relevantes em equipes colaborativas.
 
 ---
 
@@ -53,4 +57,3 @@
   <img align="center" alt="JavaScript" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
-
