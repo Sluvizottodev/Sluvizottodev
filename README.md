@@ -57,3 +57,11 @@
   <img align="center" alt="JavaScript" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+
+---
+### Minhas listas do GitHub:
+
+Aqui estão algumas listas que criei para facilitar o acesso aos meus repositórios favoritos e projetos acadêmicos:
+
+- 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
+- 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Meus projetos pessoais em várias linguagens e tecnologias.
