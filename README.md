@@ -64,4 +64,4 @@
 Aqui estão algumas listas que criei para facilitar o acesso aos meus repositórios favoritos e projetos acadêmicos:
 
 - 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
-- 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Meus projetos pessoais em várias linguagens e tecnologias.
+- 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Alguns projetos pessoais.
