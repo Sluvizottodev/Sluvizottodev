@@ -1,3 +1,4 @@
+
 <div> 
   <a href="https://www.linkedin.com/in/stefani-luvizotto-36025427b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -28,6 +29,10 @@
 
 💡 Gosto de desafios que me permitem crescer, aprender e contribuir com soluções relevantes em equipes colaborativas.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+</p>
+
 ---
 
 ### Tecnologias:
@@ -54,9 +59,8 @@
 </div>
 
 ---
-### Minhas listas do GitHub:
 
-Aqui estão algumas listas que criei para facilitar o acesso aos meus repositórios favoritos e projetos acadêmicos:
+### Minhas listas do GitHub:
 
 - 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
 - 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Alguns projetos pessoais.
