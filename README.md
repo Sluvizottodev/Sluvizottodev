@@ -28,11 +28,6 @@
 🚀 Estou ampliando meu conhecimento para novas áreas como **web** e **dados**, estudando tecnologias como **React**, **SpringBoot** e **JavaScript**. Apesar de ainda não ter vivência profissional com essas tecnologias, tenho segurança na minha base técnica e na minha capacidade de aprender e aplicar novos conhecimentos rapidamente.
 
 💡 Gosto de desafios que me permitem crescer, aprender e contribuir com soluções relevantes em equipes colaborativas.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
-</p>
-
 ---
 
 ### Tecnologias:
@@ -64,3 +59,7 @@
 
 - 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
 - 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Alguns projetos pessoais.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
+</p>
