@@ -68,12 +68,13 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Currently section with typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CDE4&width=500&center=true&vCenter=true&size=18&lines=Mais+que+tecnologia%2C+conex%C3%A3o;Crescendo+um+pouco+todos+os+dias;Tech+com+prop%C3%B3sito+%E2%9D%A4%EF%B8%8F;Cada+desafio%2C+uma+nova+l%C3%B3gica+a+desvendar"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CDE4&width=500&center=true&vCenter=true&size=18&lines=Estudando+AWS+Cloud+Practitioner;Buscando+est%C3%A1gio+em+TI;Projetos+pessoais+em+foco;Tech+com+prop%C3%B3sito+%E2%9D%A4%EF%B8%8F;Crescendo+um+pouco+todos+os+dias"
+    alt="Typing Currently"
   />
 </p>
+
 
 
