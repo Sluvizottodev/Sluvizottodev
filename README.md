@@ -62,7 +62,7 @@
 ### Minhas listas do GitHub:
 
 - 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
-- 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos) — Alguns projetos pessoais.
+- 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos-caixa-preta) — Alguns projetos pessoais.
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
