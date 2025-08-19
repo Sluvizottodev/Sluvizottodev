@@ -71,10 +71,12 @@
 <!-- Currently section with typing animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CDE4&width=500&center=true&vCenter=true&size=18&lines=Estudando+AWS+Cloud+Practitioner;Buscando+est%C3%A1gio+em+TI;Projetos+pessoais+em+foco;Tech+com+prop%C3%B3sito+%E2%9D%A4%EF%B8%8F;Crescendo+um+pouco+todos+os+dias"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CDE4&width=500&center=true&vCenter=true&size=18&lines=Buscando+est%C3%A1gio+em+TI;Certificada+AWS+Cloud+Practitioner;Tech+com+prop%C3%B3sito+%E2%9D%A4%EF%B8%8F;Crescendo+um+pouco+todos+os+dias"
     alt="Typing Currently"
   />
 </p>
+
+
 
 
 
