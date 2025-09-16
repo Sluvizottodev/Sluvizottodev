@@ -1,17 +1,27 @@
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<div> 
-  <a href="https://www.linkedin.com/in/stefani-luvizotto/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
-  </a>
-  <a href="mailto:stefani292005@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
-  </a> 
-  <a href="https://gist.github.com/Sluvizottodev" target="_blank">
-    <img src="https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/stefani-luvizotto/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn">
+    </a>
+    <a href="mailto:stefani292005@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email">
+    </a> 
+    <a href="https://gist.github.com/Sluvizottodev" target="_blank">
+      <img src="https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gist">
+    </a>
+  </div>
+
+  <div>
+    <a href="https://sluvizottodev.github.io/bugs-e-bits-blog-de-estudo/public/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/Bugs%20%26%20Bits%20-%20Blog%20Dev-8b5cf6?style=for-the-badge&logo=dev.to&logoColor=22d3ee" alt="Bugs & Bits - Blog Dev">
+    </a>
+  </div>
+
 </div>
 
 
+---
 
 ### About me:
 
