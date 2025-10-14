@@ -7,9 +7,6 @@
     <a href="mailto:stefani292005@gmail.com" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email">
     </a> 
-    <a href="https://gist.github.com/Sluvizottodev" target="_blank">
-      <img src="https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gist">
-    </a>
   </div>
 
   <div>
@@ -25,52 +22,50 @@
 
 ### About me:
 
-👩‍💻 I'm a software developer with hands-on experience in building efficient and innovative solutions using **Flutter**, **Dart**, and **Firebase** (NoSQL). I also have a strong academic and personal project background in **Java**, **Kotlin**, and **SQL** databases.
+👩‍💻 I'm a **full stack developer in progress**, currently focused on **web development** with **Node.js**, **JavaScript**, and related technologies. I also have experience with **Flutter** and mobile development, and have explored languages such as **Java**, **Kotlin**, **C**, and **Python** (mainly for automation and file handling).
 
-🚀 I'm currently expanding my expertise into the **web** and **data** domains, studying technologies like **Python**, **SpringBoot** and **JavaScript**. While I may not yet have professional experience in these areas, I have a solid technical foundation and a strong ability to learn quickly and apply new knowledge effectively.
+🚀 I'm building a strong foundation in both **frontend** and **backend**, learning continuously about architecture, API integration, and cloud environments. I’m AWS **Cloud Practitioner certified** and enjoy combining technical learning with problem-solving and collaboration.
 
-💡 I'm driven by challenges and enjoy contributing to meaningful and scalable projects, always with the mindset of improving my technical and collaborative skills.
+💡 I’m curious, adaptable, and motivated by challenges that help me grow while contributing to projects that create real impact.
 
 ---
 
 ### Sobre mim:
 
-👩‍💻 Sou desenvolvedora de software com experiência prática na criação de soluções eficientes utilizando **Flutter**, **Dart** e **Firebase** (NoSQL). Tenho também uma base sólida, adquirida em estudos e projetos pessoais, com **Java**, **Kotlin** e bancos relacionais como **SQL**.
+👩‍💻 Sou **desenvolvedora full stack em construção**, atualmente focada em **desenvolvimento web** com **Node.js**, **JavaScript** e tecnologias relacionadas. Tenho também experiência com **Flutter** e desenvolvimento mobile, além de já ter explorado linguagens como **Java**, **Kotlin**, **C** e **Python** (voltado a automação e manipulação de arquivos).
 
-🚀 Estou ampliando meu conhecimento para novas áreas como **web** e **dados**, estudando tecnologias como **Python**, **SpringBoot** e **JavaScript**. Apesar de ainda não ter vivência profissional com essas tecnologias, tenho segurança na minha base técnica e na minha capacidade de aprender e aplicar novos conhecimentos rapidamente.
+🚀 Venho consolidando minha base em **frontend** e **backend**, estudando arquitetura, integração com APIs e ambientes em nuvem. Sou certificada **AWS Cloud Practitioner** e gosto de unir aprendizado técnico com resolução de problemas e trabalho em equipe.
 
-💡 Gosto de desafios que me permitem crescer, aprender e contribuir com soluções relevantes em equipes colaborativas.
+💡 Tenho facilidade para aprender, me adaptar e buscar soluções criativas e escaláveis — sempre com o objetivo de crescer e contribuir em projetos com propósito.
 
 ---
 
 ### 🛠️ Technologies | Tecnologias
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="NodeJS"     height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Flutter"    height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Dart"       height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="Java"       height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Firebase"   height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Python"     height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL"      height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Git"        height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python"     height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img align="center" alt="AWS"        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
-
 ---
-
 
 ### Minhas listas do GitHub:
 
@@ -81,16 +76,9 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </p>
 
-<!-- Currently section with typing animation -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CDE4&width=500&center=true&vCenter=true&size=18&lines=Certificada+AWS+Cloud+Practitioner;Tech+com+prop%C3%B3sito+%E2%9D%A4%EF%B8%8F;Crescendo+um+pouco+todos+os+dias"
     alt="Typing Currently"
   />
 </p>
-
-
-
-
-
-
