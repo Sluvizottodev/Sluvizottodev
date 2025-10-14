@@ -17,12 +17,11 @@
 
 </div>
 
-
 ---
 
 ### About me:
 
-👩‍💻 I'm a **full stack developer in progress**, currently focused on **web development** with **Node.js**, **JavaScript**, and related technologies. I also have experience with **Flutter** and mobile development, and have explored languages such as **Java**, **Kotlin**, **C**, and **Python** (mainly for automation and file handling).
+👩‍💻 I'm a **full stack developer in progress**, currently focused on **web development** with **Node.js**, **JavaScript**, **TypeScript**, and related technologies. I also have experience with **Flutter** and mobile development, and have explored languages such as **Java**, **Kotlin**, **C**, and **Python** (mainly for automation and file handling).
 
 🚀 I'm building a strong foundation in both **frontend** and **backend**, learning continuously about architecture, API integration, and cloud environments. I’m AWS **Cloud Practitioner certified** and enjoy combining technical learning with problem-solving and collaboration.
 
@@ -32,7 +31,7 @@
 
 ### Sobre mim:
 
-👩‍💻 Sou **desenvolvedora full stack em construção**, atualmente focada em **desenvolvimento web** com **Node.js**, **JavaScript** e tecnologias relacionadas. Tenho também experiência com **Flutter** e desenvolvimento mobile, além de já ter explorado linguagens como **Java**, **Kotlin**, **C** e **Python** (voltado a automação e manipulação de arquivos).
+👩‍💻 Sou **desenvolvedora full stack em construção**, atualmente focada em **desenvolvimento web** com **Node.js**, **JavaScript**, **TypeScript** e tecnologias relacionadas. Tenho também experiência com **Flutter** e desenvolvimento mobile, além de já ter explorado linguagens como **Java**, **Kotlin**, **C** e **Python** (voltado a automação e manipulação de arquivos).
 
 🚀 Venho consolidando minha base em **frontend** e **backend**, estudando arquitetura, integração com APIs e ambientes em nuvem. Sou certificada **AWS Cloud Practitioner** e gosto de unir aprendizado técnico com resolução de problemas e trabalho em equipe.
 
@@ -47,6 +46,10 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Prisma"     height="30" width="40"
+       src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" />
   <img align="center" alt="Flutter"    height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Dart"       height="30" width="40"
@@ -55,13 +58,15 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Python"     height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="SQLite"     height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="MySQL"      height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Git"        height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img align="center" alt="AWS"        height="30" width="40"
+  <img align="center" alt="AWS"        height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
@@ -69,7 +74,7 @@
 
 ### Minhas listas do GitHub:
 
-- 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.
+- 📚 [Aulas Faculdade](https://github.com/stars/Sluvizottodev/lists/aulas-faculdade-facul-exe) — Repositórios com exercícios e materiais das minhas aulas.  
 - 🚀 [Projetos Pessoais](https://github.com/stars/Sluvizottodev/lists/projetos-caixa-preta) — Alguns projetos pessoais.
 
 <p align="center">
